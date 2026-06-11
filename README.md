@@ -22,4 +22,4 @@
 
 `Python` `Java` `SQL` `TypeScript` `C` · `TensorFlow/Keras` `Scikit-learn` `Pandas` · `Kafka` `Elasticsearch` `Spark` · `PostgreSQL` · `Docker` `Prometheus/Grafana` `GitHub Actions` · `Next.js` `Flask`
 
-`Agentic coding` `Prompt engineering` `Workflows agentiques` · `Claude Code` `Codex (OpenAI)` `LangChain/LangGraph`
+`Agentic coding` `Prompt engineering` `Workflows agentiques` · `Claude Code` `Codex (OpenAI)` `MCP` `gstack` `Ralph loop` `LangChain/LangGraph`
